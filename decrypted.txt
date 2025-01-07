@@ -1,0 +1,21 @@
+
+{bodyTemperature=96.5 F},
+{bloodPressure:: systolic =120 mmHG and 
+                 diastolic =81 mmHg },
+{ heartbeat = 75 beats/min }     
+
+
+            
+            
+            
+            
+            
+            
+            
+            
+         
+         
+            
+            
+            
+            
